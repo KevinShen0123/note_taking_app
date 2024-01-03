@@ -1,1 +1,1 @@
-# note_taking_app
+react native node taking app
